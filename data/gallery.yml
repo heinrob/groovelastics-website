@@ -1,0 +1,49 @@
+title: "Die Band"
+style: "lightbox onscroll-fade-in style1 medium"
+content: "Das sind wir:"
+pictures:
+  - title: "Louis (Drums)"
+    content: "Am Schlagzeug immer pünktlich, zur Probe immer zu spät - das ist das Motto von Louis. Seine Beats geben der Musik den richtigen Drive, damit das Publikum extatisch tanzen kann."
+    image: "images/gallery/fulls/louis.jpg"
+    thumb: "images/gallery/thumbs/louis.jpg"
+
+  - title: "Helen (Lead Vocals)"
+    content: "Damit Groovelastics stets „in tune“ ist, haben wir uns ein lebendiges Stimmgerät angelacht - Das ist Helen. Apropos angelacht: Helen trifft mit ihrer Stimme nicht nur jeden Ton butterweich, sondern ist obendrein eine echte Frohnatur, die im Publikum und auf der Bühne sofort gute Laune versprüht. Let's sing together!"
+    image: "images/gallery/fulls/helen.jpg"
+    thumb: "images/gallery/thumbs/helen.jpg"
+
+  - title: "Simon (Keys)"
+    content: "Ob Wurli, Piano oder Orgel - jedes Instrument muss sich erst mal an Simons virtuose Fingerfertigkeiten gewöhnen. Er verpasst damit der Band ihren funky Sound."
+    image: "images/gallery/fulls/simon.jpg"
+    thumb: "images/gallery/thumbs/simon.jpg"
+
+  - title: "Lucian (Trompete, Vocals)"
+    content: "Mit nur drei Ventilen und ganz viel Gefühl kann Lucian sowohl in Solo als auch in wunderbar schmalzigen Bläserbackings immer den richtigen Ton finden."
+    image: "images/gallery/fulls/lucian.jpg"
+    thumb: "images/gallery/thumbs/lucian.jpg"
+
+  - title: "Yannik (Tenorsax)"
+    content: "Als Bandmutti kümmert sich Yannik um alles und jeden - außer sein eigenes Studium, ganz zum Vorteil seiner musikalischen Fähigkeiten. Jede freie Sekunde nutzt er, um nicht nur sein Saxophonspiel zu optimieren, sondern auch alle möglichen anderen Instrumente anzufassen."
+    image: "images/gallery/fulls/yannik.jpg"
+    thumb: "images/gallery/thumbs/yannik.jpg"
+
+  - title: "Robin (Bass)"
+    content: "Als Fundament der Band sorgt er mit groovigem Bass für ordentlich Druck und walkt und slappt sich in die Herzen der Zuschauer. So 'n richtiger Bassist halt."
+    image: "images/gallery/fulls/robin.jpg"
+    thumb: "images/gallery/thumbs/robin.jpg"
+
+  - title: "Netti (Lead Vocals)"
+    content: ""
+    image: "images/gallery/fulls/netti.jpg"
+    thumb: "images/gallery/thumbs/netti.jpg"
+
+  - title: "Biene (Management)"
+    content: ""
+    image: "images/gallery/fulls/biene.jpg"
+    thumb: "images/gallery/thumbs/biene.jpg"
+
+  # - title: "Peter (Gitarre, Vocals)"
+  #   content: "Mit smoothen Licks und fetzigen Soli überzeugt er das Publikum nicht nur an der Gitarre, sondern auch als Teil des Chorsatzes und auch gelegentlich als Leadsänger. Und das obwohl er schon in ganz Europa tourt."
+  #   image: "images/gallery/fulls/07.jpg"
+  #   thumb: "images/gallery/thumbs/07.jpg"
+

@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style5 color1 orient-left content-align-left onload-image-fade-in onload-content-fade-right"
+title : "Groovelastics"
+# subtitle: |
+#   Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+content : |
+  Groovelastics - Aus ihrer Begeisterung für Funk und Soul kombiniert die Braunschweiger Coverband satte Rhythmen mit knackigen Bläsern und drückt bekannten Songs dadurch ihren ganz eigenen Stempel auf. Es ist wirklich schwer, sich nicht mitreißen zu lassen.
+button:
+  label : "Nächste Konzerte"
+  link : "#live"
+image : "images/banner_v5.jpg"
+

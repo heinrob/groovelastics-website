@@ -1,0 +1,18 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <ul class="alt concerts">
+            {{ range .concerts }}
+                {{ $startDate := delimit (first 1 (split .date ",")) "" }}
+                {{ $endDate := delimit (last 1 (split .date ",")) "" }}
+                <li data-name="{{ .name }}" data-date-start="{{ $startDate }}" data-date-end="{{ $endDate }}" data-location-name="{{ .location.name }}" data-location-link="{{ .location.link }}" data-fee="{{ .fee }}" data-link="{{ .link }}" >
+                </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>

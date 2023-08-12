@@ -1,0 +1,49 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Groovelastics"
+copyright = "{year}"
+defaultContentLanguage = 'de'
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  logo = "images/logo.png"
+  favicon = true
+  dateFormat = "02. January 2006"
+  custom_js = ['js/custom.js']
+
+[Params.social]
+  email = "groovelastics@gmail.com"
+  instagram = "https://www.instagram.com/groovelastics/"
+  youtube = "https://www.youtube.com/@groovelastics7409"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
