@@ -12,6 +12,18 @@ concerts:
       link: https://goo.gl/maps/zZE4SHiXaEUBk6pA6
     fee: 26,40
     link: https://www.schloss-spektakel.de/
+  - name: Grinsekatz
+    date: 2023-08-24T19:00
+    location:
+      name: 'Bürgerpark in Braunschweig - ehemalige Okercabana'
+      link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
+    link: https://grinsekatz.de/
+  - name: Grinsekatz
+    date: 2023-09-21T19:00
+    location:
+      name: 'Bürgerpark in Braunschweig - ehemalige Okercabana'
+      link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
+    link: https://grinsekatz.de/
   - name: Kultur im Zelt, Regio Bühne
     date: 2023-09-09
     location:

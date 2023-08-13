@@ -17,6 +17,7 @@ window.addEventListener("DOMContentLoaded", () => {
     concerts.forEach((concert) => {
         concertContainer.removeChild(concert);
         const {name, dateStart, dateEnd, locationName, locationLink, fee, link} = concert.dataset;
+        // TODO: fix date
         if (Date.parse(dateEnd) < Date.now()) {
             return;
         }
@@ -55,7 +56,11 @@ window.addEventListener("DOMContentLoaded", () => {
 
         if (fee) {
             li.appendChild(document.createElement('br'));
-            li.appendChild(document.createTextNode(`Eintritt: ${fee}€`));
+            if(fee.search(/[a-zA-Z]/) > -1) {
+                li.appendChild(document.createTextNode(fee));
+            } else {
+                li.appendChild(document.createTextNode(`Eintritt: ${fee}€`));
+            }
         }
 
         concertContainer.appendChild(li);

@@ -1,3 +1,4 @@
 .hugo_build.lock
 pub.tar
 public/
+resources/_gen/
