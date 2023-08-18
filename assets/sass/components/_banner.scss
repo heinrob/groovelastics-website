@@ -886,6 +886,10 @@
 			@include padding(_size(padding, small) * 1.25, _size(padding, small));
 		}
 
+		@include breakpoint('>=large') {
+			min-height: 100vh;
+		}
+
 		// Modifiers.
 
 			// Size.
