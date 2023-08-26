@@ -1,18 +1,24 @@
 <!-- Spotlight -->
-<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
-    <div class="content">
-        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
-        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        <ul class="alt concerts">
-            {{ range .concerts }}
-                {{ $startDate := delimit (first 1 (split .date ",")) "" }}
-                {{ $endDate := delimit (last 1 (split .date ",")) "" }}
-                <li data-name="{{ .name }}" data-date-start="{{ $startDate }}" data-date-end="{{ $endDate }}" data-location-name="{{ .location.name }}" data-location-link="{{ .location.link }}" data-fee="{{ .fee }}" data-link="{{ .link }}" >
-                </li>
+{{ $mode := .mode }}
+{{ with .context }}
+    <section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}-past"{{ end }}>
+        <div class="content">
+            {{ if eq $mode "past" }}
+                {{ with .title_past }}<h2>{{ . }}</h2>{{ end }}
+                {{ with .content_past }}<p>{{ . | safeHTML }}</p>{{ end }}
+            {{ else }}
+                {{ with .title_future }}<h2>{{ . }}</h2>{{ end }}
+                {{ with .content_future }}<p>{{ . | safeHTML }}</p>{{ end }}
             {{ end }}
-        </ul>
-    </div>
-    {{ with .image }}<div class="image">
-        <img src="{{ . }}" alt="" />
-    </div>{{ end }}
-</section>
+            <ul class="alt concerts" data-mode="{{ $mode }}">
+                {{ range .concerts }}
+                    <li data-name="{{ .name }}" data-date="{{ .date }}" data-location-name="{{ .location.name }}" data-location-link="{{ .location.link }}" data-fee="{{ .fee }}" data-link="{{ .link }}" >
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ with .image }}<div class="image">
+            <img src="{{ . }}" alt="" />
+        </div>{{ end }}
+    </section>
+{{ end }}

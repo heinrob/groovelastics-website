@@ -9,6 +9,19 @@
 
 	.gallery {
 
+		.info {
+			aspect-ratio: 16/11;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			padding: 4px;
+			font-size: 1rem;
+			line-height: 1.25rem;
+			p {
+				margin: 0;
+			}
+		}
+
 		// Mixin.
 			@mixin transition-gallery($event) {
 				$x: null;
