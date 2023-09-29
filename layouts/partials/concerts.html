@@ -1,7 +1,7 @@
 <!-- Spotlight -->
 {{ $mode := .mode }}
 {{ with .context }}
-    <section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}-past"{{ end }}>
+    <section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
         <div class="content">
             {{ if eq $mode "past" }}
                 {{ with .title_past }}<h2>{{ . }}</h2>{{ end }}
