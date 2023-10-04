@@ -14,6 +14,23 @@ window.addEventListener("DOMContentLoaded", () => {
     return Date.parse(dateString.split(",")[0]).valueOf();
   }
 
+  function formatTime(date) {
+    const options = {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    };
+    const fmt1 = new Date(Date.parse(date)).toLocaleString("de-DE", {
+      ...options,
+      ...(date && date.includes("T") && { hour: "numeric", minute: "numeric" }),
+    });
+    if (date && date.includes("T")) {
+      return `${fmt1} Uhr`;
+    }
+    return fmt1;
+  }
+
   const concertContainer = document.querySelectorAll("ul.concerts");
   concertContainer.forEach((container) => {
     const concerts = [...container.querySelectorAll("li")];
@@ -47,24 +64,11 @@ window.addEventListener("DOMContentLoaded", () => {
       li.appendChild(headline);
       li.appendChild(document.createElement("br"));
 
-      const options = {
-        weekday: "long",
-        year: "numeric",
-        month: "long",
-        day: "numeric",
-      };
-      const start = new Date(Date.parse(dateStart)).toLocaleString("de-DE", {
-        ...options,
-        ...(dateStart &&
-          dateStart.includes("T") && { hour: "numeric", minute: "numeric" }),
-      });
+      const start = formatTime(dateStart);
+
       li.appendChild(document.createTextNode(start));
       if (dateEnd !== dateStart) {
-        const end = new Date(Date.parse(dateEnd)).toLocaleString("de-DE", {
-          ...options,
-          ...(dateEnd &&
-            dateEnd.includes("T") && { hour: "numeric", minute: "numeric" }),
-        });
+        const end = formatTime(dateEnd);
         li.appendChild(document.createTextNode(` bis ${end}`));
       }
       li.appendChild(document.createElement("br"));
