@@ -7,42 +7,45 @@ content_future: |
 title_past : "Konzerte"
 content_past: |
   Hier waren unsere letzten Konzerte:
+image: "images/live_v4.jpg"
+default_past_image: "images/concerts/default.jpg"
 concerts:
   - name: Schloss-Spektakel
     date: 2023-08-11,2023-08-13
     location:
-      name: Schloss Richmond, Wolfenbütteler Str. 55, 38124 Braunschweig
+      name: Schloss Richmond
       link: https://goo.gl/maps/zZE4SHiXaEUBk6pA6
     fee: 26,40
     link: https://www.schloss-spektakel.de/
   - name: Grinsekatz
     date: 2023-08-24T19:30
     location:
-      name: 'Bürgerpark in Braunschweig - ehemalige Okercabana'
+      name: 'Bürgerpark'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
     link: https://grinsekatz.de/
-  - name: Grinsekatz
-    date: 2023-09-21T19:30
-    location:
-      name: 'Bürgerpark in Braunschweig - ehemalige Okercabana'
-      link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
-    link: https://grinsekatz.de/
+    image: "images/concerts/2023Grinsekatz.jpg"
+  # - name: Grinsekatz
+  #   date: 2023-09-21T19:30
+  #   location:
+  #     name: 'Bürgerpark'
+  #     link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
+  #   link: https://grinsekatz.de/
   - name: Kultur im Zelt, Regio Bühne
     date: 2023-09-09T17:30
     location:
-      name: 'Bürgerpark in Braunschweig'
+      name: 'Bürgerpark'
       link: 'https://www.google.com/maps/place/Festival+KulturImZelt+Braunschweig/@52.2556953,10.5186496,16.93z/data=!4m6!3m5!1s0x47aff675340c43cf:0xa6204306d6bf9713!8m2!3d52.2553351!4d10.5203023!16s%2Fg%2F11ckqrdj7c?entry=ttu'
     link: https://www.kulturimzelt.de/programm-2023/
   - name: Magnifest
     date: 2023-09-10T15:00
     location:
-      name: Magniviertel - Kirchplatz-Bühne / NORTHERN-Bühne
+      name: Magniviertel
       link: https://goo.gl/maps/ov44pVzJs8RPX6Ca8
     link: https://www.magni-fest.de/
   - name: Familienfest im VW-Werk Wolfsburg
     date: 2023-09-23,2023-09-24
     location:
-      name: 'Werksgelände VW in Wolfsburg'
+      name: 'Werksgelände'
   - name: Honky Tonk
     date: 2023-09-30T21:00
     link: https://www.honky-tonk.de/staedte_termine/
@@ -64,4 +67,3 @@ concerts:
     location:
       name: Hotel Nord
       link: https://maps.app.goo.gl/HAzPw1ouv7Z5Ve2h9
-image: "images/live_v4.jpg"

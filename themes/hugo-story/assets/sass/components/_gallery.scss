@@ -7,7 +7,11 @@
 
 /* Gallery (transitions) */
 
-	.gallery {
+	ul.concert-gallery {
+		padding-left: 0;
+	}
+
+	.gallery, .concert-gallery {
 
 		.info {
 			aspect-ratio: 16/11;
@@ -78,7 +82,7 @@
 
 /* Gallery (style1) */
 
-	.gallery.style1 {
+	.gallery.style1, .concert-gallery.style1 {
 		@include color-typography(invert);
 		@include color-button(invert);
 		@include vendor('align-items', 'center');

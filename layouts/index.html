@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
-	{{ partial "concerts" (dict "context" site.Data.concerts "mode" "future") }}
+	{{ partial "concerts" site.Data.concerts }}
+	{{ partial "concerts_past" site.Data.concerts }}
 	<!-- {{ partial "spotlight" site.Data.spotlight2 }}
 	{{ partial "spotlight" site.Data.spotlight3 }} -->
 	{{ partial "gallery" site.Data.gallery }}

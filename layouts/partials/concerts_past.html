@@ -1,0 +1,16 @@
+<!-- Gallery -->
+<section class="wrapper style1 color1 invert align-center" {{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner">
+        {{ with .title_past }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content_past }}<p>{{ . | safeHTML }}</p>{{ end }}
+    </div>
+
+    <!-- Not-Gallery -->
+    <ul class="lightbox onscroll-fade-in style1 medium concerts concert-gallery" data-mode="past" data-default-image="{{ .default_past_image }}">
+        {{ range .concerts }}
+            <li class="image" data-name="{{ .name }}" data-date="{{ .date }}" data-location-name="{{ .location.name }}" data-image="{{ .image }}" >
+            </li>
+        {{ end }}
+    </ul>
+    <div class="inner lightbox onscroll-fade-in style1 medium concerts concert-gallery" id="concert-target"></div>
+</section>

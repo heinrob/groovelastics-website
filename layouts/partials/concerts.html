@@ -1,24 +1,16 @@
 <!-- Spotlight -->
-{{ $mode := .mode }}
-{{ with .context }}
-    <section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
-        <div class="content">
-            {{ if eq $mode "past" }}
-                {{ with .title_past }}<h2>{{ . }}</h2>{{ end }}
-                {{ with .content_past }}<p>{{ . | safeHTML }}</p>{{ end }}
-            {{ else }}
-                {{ with .title_future }}<h2>{{ . }}</h2>{{ end }}
-                {{ with .content_future }}<p>{{ . | safeHTML }}</p>{{ end }}
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title_future }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content_future }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <ul class="alt concerts" data-mode="future">
+            {{ range .concerts }}
+                <li data-name="{{ .name }}" data-date="{{ .date }}" data-location-name="{{ .location.name }}" data-location-link="{{ .location.link }}" data-fee="{{ .fee }}" data-link="{{ .link }}" >
+                </li>
             {{ end }}
-            <ul class="alt concerts" data-mode="{{ $mode }}">
-                {{ range .concerts }}
-                    <li data-name="{{ .name }}" data-date="{{ .date }}" data-location-name="{{ .location.name }}" data-location-link="{{ .location.link }}" data-fee="{{ .fee }}" data-link="{{ .link }}" >
-                    </li>
-                {{ end }}
-            </ul>
-        </div>
-        {{ with .image }}<div class="image">
-            <img src="{{ . }}" alt="" />
-        </div>{{ end }}
-    </section>
-{{ end }}
+        </ul>
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>
