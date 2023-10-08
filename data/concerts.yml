@@ -52,18 +52,20 @@ concerts:
     location:
       name: 'Riptide'
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
-  - name: Offene Geburtstagsfeier
+  - name: Gig "Funk und Soul vom Feinsten"
     date: 2023-11-03T20:00
     location:
       name: Eusebia
       link: https://maps.app.goo.gl/b7R8Uk4ZdVp5uByeA
+    fee: frei 
   - name: Abschlussball der Masterabsolvent:innen Lehramt
     date: 2023-11-11
     location:
       name: 'Hildesheim'
-  - name: Hotel Nord
+  - name: Neujahrskonzert mit Britta Rex "Mit Funk und Soul ins neue Jahr"
     date: 2024-01-12T20:00
     link: https://www.live-im-nord.de/vorschau.html#Jan24
     location:
       name: Hotel Nord
       link: https://maps.app.goo.gl/HAzPw1ouv7Z5Ve2h9
+    fee: 19,70
