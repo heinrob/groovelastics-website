@@ -836,14 +836,25 @@
 		background-color: inherit;
 		position: relative;
 		text-align: center;
-		overflow-x: hidden;
+		overflow: visible;
+		min-height: 50vh;
 
 		.content {
 			position: relative;
-			width: (_size(inner) * 0.625);
+			width: 100%;
 			max-width: 100%;
 			margin-bottom: _size(element-margin);
 			z-index: 1;
+			text-align: right;
+
+			@include breakpoint('<=small') {
+				top: 300px;
+				text-align: center;
+			}
+
+			@include breakpoint('<=xsmall') {
+				top: 240px;
+			}
 		}
 
 		.image {
@@ -870,6 +881,24 @@
 			}
 		}
 
+		.image-logo {
+			position: absolute;
+			height: 50%;
+			bottom: 0;
+			width: 100%;
+			background: linear-gradient(transparent 0%, #30363d 70%);
+
+			img {
+				display: block;
+				position: relative;
+				width: 80%;
+				height: 100%;
+				bottom: 5%;
+				left: 10%;
+				object-fit: contain;
+			}
+		}
+
 		@include breakpoint('<=xlarge') {
 			@include padding(_size(padding, xlarge), _size(padding, xlarge));
 		}
@@ -884,6 +913,11 @@
 
 		@include breakpoint('<=small') {
 			@include padding(_size(padding, small) * 1.25, _size(padding, small));
+			min-height: 40vh;
+		}
+
+		@include breakpoint('<=xsmall') {
+			min-height: 30vh;
 		}
 
 		@include breakpoint('>=large') {

@@ -1,6 +1,6 @@
 <!-- Spotlight -->
-<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
-    <div class="content">
+<section class="spotlight {{ .style }}">
+    <div class="content"{{ with .id }} id="{{ . }}"{{ end }}>
         {{ with .title_future }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content_future }}<p>{{ . | safeHTML }}</p>{{ end }}
         <ul class="alt concerts" data-mode="future">

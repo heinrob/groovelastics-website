@@ -39,12 +39,16 @@
 			height: fit-content;
 			top: 50%;
 			transform: translateY(-50%);
+			background: #30363dcc;
+			border-top-right-radius: 30px;
+			border-bottom-right-radius: 30px;
 
 			.icons {
 				display: flex;
 				flex-direction: column;
+				gap: 10px;
 				li {
-					padding: 5px 0;
+					padding: 0;
 				}
 			}
 		}
