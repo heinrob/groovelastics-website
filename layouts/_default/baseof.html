@@ -17,6 +17,19 @@
 		<!-- Wrapper -->
 		</div>
 
+		<div class="wrapper style1 color1 invert align-center icons-sticky">
+			<ul class="icons">
+				<!-- {{ with .Site.Params.social.github }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>{{end}} -->
+				<!-- {{ with .Site.Params.social.twitter }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>{{end}} -->
+				{{ with .Site.Params.social.instagram }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>{{end}}
+				{{ with .Site.Params.social.youtube }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-youtube"><span class="label">Youtube</span></a></li>{{end}}
+				{{ with .Site.Params.social.tiktok }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-tiktok"><span class="label">TikTok</span></a></li>{{end}}
+				{{ with .Site.Params.social.facebook }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-facebook"><span class="label">Facebook</span></a></li>{{end}}
+				<!-- {{ with .Site.Params.social.linkedin }}<li><a target="_blank" href="{{.}}" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>{{end}} -->
+				{{ with .Site.Params.social.email }}<li><a target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
+			</ul>
+		</div>
+
 		<!-- {{ template "_internal/google_analytics.html" . }}
 		{{ template "_internal/google_analytics_async.html" . }}	 -->
 		{{ partial "scripts" . }}

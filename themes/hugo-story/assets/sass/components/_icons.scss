@@ -21,3 +21,35 @@
 			}
 		}
 	}
+
+	.icons-sticky {
+		position: -webkit-sticky;
+		position: sticky;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		padding: 20px;
+		background: _palette(bg);
+
+
+		@include breakpoint('>=large') {
+			position: fixed;
+			left: 0;
+			width: fit-content;
+			height: fit-content;
+			top: 50%;
+			transform: translateY(-50%);
+
+			.icons {
+				display: flex;
+				flex-direction: column;
+				li {
+					padding: 5px 0;
+				}
+			}
+		}
+
+		.icons {
+			margin: 0;
+		}
+	}

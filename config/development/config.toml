@@ -43,6 +43,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   email = "groovelastics@gmail.com"
   instagram = "https://www.instagram.com/groovelastics/"
   youtube = "https://www.youtube.com/@groovelastics7409"
+  tiktok = "https://tiktok.com/@groovelastics4"
+  facebook = "https://www.facebook.com/Groovelastics/"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
