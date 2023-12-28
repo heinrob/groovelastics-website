@@ -5,10 +5,10 @@ title_future : "Konzerte"
 content_future: |
   Hier sind unsere nächsten Konzerte:
 title_past : "Konzerte"
-content_past: |
-  Hier waren unsere letzten Konzerte:
-image: "images/live_v4.jpg"
-default_past_image: "images/concerts/default.jpg"
+#content_past: |
+#  Hier waren unsere letzten Konzerte:
+#image: "images/live_v4.jpg"
+#default_past_image: "images/concerts/default.jpg"
 concerts:
   - name: Schloss-Spektakel
     date: 2023-08-11,2023-08-13
