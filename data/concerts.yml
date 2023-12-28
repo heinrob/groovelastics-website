@@ -5,8 +5,8 @@ title_future : "Konzerte"
 content_future: |
   Hier sind unsere nächsten Konzerte:
 title_past : "Konzerte"
-#content_past: |
-#  Hier waren unsere letzten Konzerte:
+content_past: |
+  Hier waren unsere letzten Konzerte:
 #image: "images/live_v4.jpg"
 #default_past_image: "images/concerts/default.jpg"
 concerts:
@@ -23,7 +23,8 @@ concerts:
       name: 'Bürgerpark'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
     link: https://grinsekatz.de/
-    image: "images/concerts/2023Grinsekatz.jpg"
+  #  image: "images/concerts/2023Grinsekatz.jpg"
+  
   # - name: Grinsekatz
   #   date: 2023-09-21T19:30
   #   location:
