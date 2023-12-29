@@ -7,7 +7,7 @@ content_future: |
 title_past : "Konzerte"
 content_past: |
   Hier waren unsere letzten Konzerte:
-#image: "images/live_v4.jpg"
+image: "images/live_v4.jpg"
 #default_past_image: "images/concerts/default.jpg"
 concerts:
   - name: Schloss-Spektakel
