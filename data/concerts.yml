@@ -63,6 +63,9 @@ concerts:
     date: 2023-11-11
     location:
       name: 'Hildesheim'
+
+# 2024
+      
   - name: Neujahrskonzert mit Britta Rex "Mit Funk und Soul ins neue Jahr"
     date: 2024-01-12T20:00
     link: https://www.live-im-nord.de/vorschau.html#Jan24
@@ -70,3 +73,21 @@ concerts:
       name: Hotel Nord
       link: https://maps.app.goo.gl/HAzPw1ouv7Z5Ve2h9
     fee: 19,70
+  - name: Private Hochzeitsfeier
+    date: 2024-06-22
+    link: 
+    location:
+      name: 
+      link: 
+  - name: Private Familienfeier
+    date: 2024-08-03
+    link: 
+    location:
+      name: 
+      link: 
+  - name: Gig "Funk und Soul im Ku(h)lturstall"
+    date: 2024
+    link: https://pflanzeneck.de/
+    location: 
+      name: PflanzenEck Wense
+      link: https://www.google.com/maps/search/pflanzenEck%20wense
