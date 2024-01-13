@@ -73,6 +73,12 @@ concerts:
       name: Hotel Nord
       link: https://maps.app.goo.gl/HAzPw1ouv7Z5Ve2h9
     fee: 19,70
+  - name: Honky Tonk
+    date: 2024-04-27T21:00
+    link: https://www.honky-tonk.de/staedte_termine/
+    location:
+      name: 'Riptide'
+      link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
   - name: Private Hochzeitsfeier
     date: 2024-06-22
     link: 
@@ -86,7 +92,7 @@ concerts:
       name: 
       link: 
   - name: Gig "Funk und Soul im Ku(h)lturstall"
-    date: 2024
+    date: 2024-??-??
     link: https://pflanzeneck.de/
     location: 
       name: PflanzenEck Wense
