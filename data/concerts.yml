@@ -79,18 +79,7 @@ concerts:
     location:
       name: 'Riptide'
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
-  - name: Private Hochzeitsfeier
-    date: 2024-06-22
-    link: 
-    location:
-      name: 
-      link: 
-  - name: Private Familienfeier
-    date: 2024-08-03
-    link: 
-    location:
-      name: 
-      link: 
+
 #  - name: Gig "Funk und Soul im Ku(h)lturstall"
 #    date: 
 #    link: https://pflanzeneck.de/
