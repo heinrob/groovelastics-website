@@ -80,9 +80,9 @@ concerts:
       name: 'Riptide'
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
 
-#  - name: Gig "Funk und Soul im Ku(h)lturstall"
-#    date: 
-#    link: https://pflanzeneck.de/
-#    location: 
-#      name: PflanzenEck Wense
-#      link: https://www.google.com/maps/search/pflanzenEck%20wense
+  - name: Gig "Funk und Soul im Ku(h)lturstall"
+    date: 2024-04-19T19:30
+    link: https://pflanzeneck.de/
+    location: 
+      name: PflanzenEck Wense
+      link: https://www.google.com/maps/search/pflanzenEck%20wense
