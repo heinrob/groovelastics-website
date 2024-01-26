@@ -6,7 +6,8 @@ content_future: |
   Hier sind unsere nächsten Konzerte:
 title_past : "Vergangene Konzerte"
 content_past: |
-  Hier könnt ihr sehen, wo wir in letzter Zeit so alles gespielt haben.
+  Bühnen gibt es viele - drinnen und draußen, schlecht überdacht und voll im Wind oder winzig klein unter brütend heißem Scheinwerferlicht.
+  Wir standen schon auf so einigen davon und lieben es einfach immer! Hier gibts eine kleine Auswahl unserer letzten Auftritte, vielleicht haben wir uns ja dort gesehen!?
 image: "images/live_v4.jpg"
 #default_past_image: "images/concerts/default.jpg"
 concerts:
