@@ -2,7 +2,7 @@
 <section class="wrapper style1 color1 invert align-center" {{ with .id }} id="{{ . }}"{{ end }}>
     <div class="inner">
         <h2>{{ .title }}</h2>
-        <h1>{{ .content | safeHTML }}</h1>
+        <p>{{ .content | safeHTML }}</p>
     </div>
 
     <!-- Gallery -->
