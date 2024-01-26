@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 color1 orient-left content-align-left image-position-left onscroll-image-fade-in"
+style: "style1 orient-left content-align-left image-position-left onscroll-image-fade-in"
 id: "live"
 title_future : "Konzerte"
 content_future: |
