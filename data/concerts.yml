@@ -84,10 +84,12 @@ concerts:
       
   - name: Honky Tonk
     date: 2024-04-27T21:00
-    link: https://www.honky-tonk.de/staedte_termine/
+    link: https://www.honky-tonk.de/staedte_termine
     location:
       name: 'Riptide'
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
+    fee: 18,00
+    link: https://shop.honky-tonk.de/tickets/44/honky-tonk-braunschweig-am-27.04.24?c=14
 
   - name: Gig "Funk und Soul im Ku(h)lturstall"
     date: 2024-04-19T19:30
