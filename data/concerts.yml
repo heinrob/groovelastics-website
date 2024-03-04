@@ -91,9 +91,16 @@ concerts:
     fee: 18,00
     link: https://shop.honky-tonk.de/tickets/44/honky-tonk-braunschweig-am-27.04.24?c=14
 
-  - name: Gig "Funk und Soul im Ku(h)lturstall"
+  - name: Funk und Soul im Ku(h)lturstall
     date: 2024-04-19T19:30
     link: https://pflanzeneck.de/
     location: 
       name: PflanzenEck Wense
       link: https://www.google.com/maps/search/pflanzenEck%20wense
+
+  - name: 7. Regionales Musikfest
+    date: 2024-06-15T18:00
+    link: https://www.regionales-musikfest.de/7-regionales-musikfest/
+    location: 
+      name: HOLLERPLATZ Open Air Bühne in Wolfsburg
+      link: https://maps.app.goo.gl/3k9ToK3fAhLVZ3T87
