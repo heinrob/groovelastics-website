@@ -82,6 +82,12 @@ concerts:
       name: 'Expertise'
       link: https://maps.app.goo.gl/QfCXDuotfppTfzFi7
       
+  - name: Kultur im Zelt Programm-Preview
+    date: 2024-04-26T21:00
+    link: https://www.kulturimzelt.de/
+    location: 
+      name: Werkstatthallen der ALBA
+      
   - name: Honky Tonk
     date: 2024-04-27T21:00
     link: https://www.honky-tonk.de/staedte_termine
@@ -98,9 +104,29 @@ concerts:
       name: PflanzenEck Wense
       link: https://www.google.com/maps/search/pflanzenEck%20wense
 
+  - name: Combi-Konzert "The Heatin´Tubes" mit "Cui Bono" und "Groovlastics" 
+    date: 2024-06-01T19:15
+    link: 
+    location: 
+      name: Biergarten "Zur Freundschaft", Polizeisport Stadion
+      link: https://maps.app.goo.gl/gU7h3o8g8uLVG2CU8
+    fee: 14,00
+
   - name: 7. Regionales Musikfest
     date: 2024-06-15T20:30
     link: https://www.regionales-musikfest.de/7-regionales-musikfest/
     location: 
       name: Hollerplatz, Open Air Bühne in Wolfsburg
       link: https://maps.app.goo.gl/3k9ToK3fAhLVZ3T87
+
+  - name: Abschlussball der Masterabsolvent:innen Lehramt
+    date: 2024-11-02
+    location:
+      name: 'Hildesheim'
+
+  - name: Groovelastics Friends & Fans Konzert 
+    date: 2024-11-03
+    link: https://kufa.haus/
+    location:
+      name: KufA-Haus
+      link: https://maps.app.goo.gl/kFKp9ksCVbjNoarc7
