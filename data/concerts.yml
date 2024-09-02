@@ -47,7 +47,7 @@ concerts:
   - name: Familienfest im VW-Werk Wolfsburg
     date: 2023-09-23,2023-09-24
     location:
-      name: 'Werksgelände'
+      name: Wolfsburg
   - name: Honky Tonk
     date: 2023-09-30T21:00
     link: https://www.honky-tonk.de/staedte_termine/
@@ -117,21 +117,21 @@ concerts:
     date: 2024-06-15T20:30
     link: https://www.regionales-musikfest.de/7-regionales-musikfest/
     location: 
-      name: Hollerplatz, Open Air Bühne in Wolfsburg
+      name: Wolfsburg
       link: https://maps.app.goo.gl/3k9ToK3fAhLVZ3T87
 
   - name: Gemeindefest St. Johannes
     date: 2024-08-24T20:00
     link: https://www.kirche-wenden.de/aktuell/nachrichten/nachrichten-ansicht?tx_ttnews%5Btt_news%5D=100&cHash=0ee9dabdec1cfafc4a8d8400f120d3e9
     location: 
-      name: Kirchengemeinde Wenden
+      name: Wenden
       link: https://maps.app.goo.gl/hvwg9T2mBp6ZMSct5
 
   - name: Seefestival Salzgitter
     date: 2024-08-25T18:30
     link: https://brawo-seefestival.de/#programm
     location: 
-      name: SBK-Bühne, Salzgittersee
+      name: Salzgittersee
       link: https://maps.app.goo.gl/LqwwPBquwNZQtjRHA
 
 #  - name: Kultur im Zelt mit Mighty Oaks und UNS (vorher)!
