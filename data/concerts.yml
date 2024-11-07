@@ -74,21 +74,18 @@ concerts:
       name: Hotel Nord
       link: https://maps.app.goo.gl/HAzPw1ouv7Z5Ve2h9
     fee: 19,70
-    
   - name: Kneipenjubiläum der Expertise
     date: 2024-03-20T20:00
     link: http://www.expertise-braunschweig.de/events.php?Seite=1
     location:
       name: 'Expertise'
-      link: https://maps.app.goo.gl/QfCXDuotfppTfzFi7
-      
+      link: https://maps.app.goo.gl/QfCXDuotfppTfzFi7      
   - name: Kultur im Zelt Programm-Preview
     date: 2024-04-26T21:00
     link: https://www.kulturimzelt.de/
     location: 
       name: Werkstatthallen der ALBA
-      link: https://maps.app.goo.gl/uDajXczpENbXeHTE8
-      
+      link: https://maps.app.goo.gl/uDajXczpENbXeHTE8      
   - name: Honky Tonk
     date: 2024-04-27T21:00
     link: https://www.honky-tonk.de/staedte_termine
@@ -97,14 +94,12 @@ concerts:
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
     fee: 18,00
     link: https://shop.honky-tonk.de/tickets/44/honky-tonk-braunschweig-am-27.04.24?c=14
-
   - name: Funk und Soul im Ku(h)lturstall
     date: 2024-04-19T19:30
     link: https://pflanzeneck.de/
     location: 
       name: PflanzenEck Wense
       link: https://www.google.com/maps/search/pflanzenEck%20wense
-
   - name: Der Gieseler rockt und groovt mit "The Heatin´Tubes" und "Cui Bono"
     date: 2024-06-01T20:15
     link: https://www.eventim-light.com/de/a/662a93b40b56e4657162adb1/e/663de3fbac2ac1627518396a
@@ -112,57 +107,59 @@ concerts:
       name: Eule
       link: https://maps.app.goo.gl/BeStCif3Xq3r3wnj9
     fee: 14,00
-
   - name: 7. Regionales Musikfest
     date: 2024-06-15T20:30
     link: https://www.regionales-musikfest.de/7-regionales-musikfest/
     location: 
       name: Wolfsburg
       link: https://maps.app.goo.gl/3k9ToK3fAhLVZ3T87
-
   - name: Gemeindefest St. Johannes
     date: 2024-08-24T20:00
     link: https://www.kirche-wenden.de/aktuell/nachrichten/nachrichten-ansicht?tx_ttnews%5Btt_news%5D=100&cHash=0ee9dabdec1cfafc4a8d8400f120d3e9
     location: 
       name: Wenden
       link: https://maps.app.goo.gl/hvwg9T2mBp6ZMSct5
-
   - name: Seefestival Salzgitter
     date: 2024-08-25T18:30
     link: https://brawo-seefestival.de/#programm
     location: 
       name: Salzgittersee
       link: https://maps.app.goo.gl/LqwwPBquwNZQtjRHA
-
 #  - name: Kultur im Zelt mit Mighty Oaks und UNS (vorher)!
 #    date: 2024-09-15T17:30
 #    location:
 #      name: 'Bürgerpark, Regio Bühne'
 #      link: 'https://www.google.com/maps/place/Festival+KulturImZelt+Braunschweig/@52.2556953,10.5186496,16.93z/data=!4m6!3m5!1s0x47aff675340c43cf:0xa6204306d6bf9713!8m2!3d52.2553351!4d10.5203023!16s%2Fg%2F11ckqrdj7c?entry=ttu'
 #    link: https://www.kulturimzelt.de/programm-2024/
-
   - name: Magnifest
     date: 2024-09-07T19:45
     location:
       name: Magniviertel (Kirchplatzbühne)
       link: https://goo.gl/maps/ov44pVzJs8RPX6Ca8
     link: https://www.magni-fest.de/magnifest-programm-2024
-
   - name: Grinsekatz mit Nachhaltigkeitsmarkt und UNS!
     date: 2024-09-22T18:00
     location:
       name: 'Grinsekatz'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
     link: https://grinsekatz.de/events/monat/2024-09/
-
   - name: Abschlussball der Masterabsolvent:innen Lehramt
     date: 2024-11-02T20:00
     location:
       name: 'Hildesheim'
-
   - name: Groovelastics Friends & Fans Konzert 
     date: 2024-11-03T18:30
     link: https://kufa.haus/
     location:
       name: KufA-Haus
       link: https://maps.app.goo.gl/kFKp9ksCVbjNoarc7
+
+
+# 2025
+
+  - name: Funk und Soul in der Zukunftswerkstatt Dedenhausen
+    date: 2025-02-22T19:30
+    link: http://www.zumbahnhof40.de/
+    location: 
+      name: Gaststätte "Zum Bahnhof"
+      link: https://maps.app.goo.gl/sNMHjcTxwi9sHwdv5
