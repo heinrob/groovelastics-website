@@ -67,7 +67,7 @@ concerts:
 
 # 2024
       
-  - name: Neujahrskonzert mit Britta Rex "Mit Funk und Soul ins neue Jahr"
+  - name: "Mit Funk und Soul ins neue Jahr" mit Britta Rex 
     date: 2024-01-12T20:00
     link: https://www.live-im-nord.de/vorschau.html#Jan24
     location:
@@ -80,7 +80,7 @@ concerts:
     location:
       name: 'Expertise'
       link: https://maps.app.goo.gl/QfCXDuotfppTfzFi7      
-  - name: Kultur im Zelt Programm-Preview
+  - name: Kultur im Zelt Preview
     date: 2024-04-26T21:00
     link: https://www.kulturimzelt.de/
     location: 
@@ -134,20 +134,21 @@ concerts:
   - name: Magnifest
     date: 2024-09-07T19:45
     location:
-      name: Magniviertel (Kirchplatzbühne)
+      name: Magniviertel
+              #  (Kirchplatzbühne)
       link: https://goo.gl/maps/ov44pVzJs8RPX6Ca8
     link: https://www.magni-fest.de/magnifest-programm-2024
-  - name: Grinsekatz mit Nachhaltigkeitsmarkt und UNS!
+  - name: Grinsekatz
     date: 2024-09-22T18:00
     location:
       name: 'Grinsekatz'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
     link: https://grinsekatz.de/events/monat/2024-09/
-  - name: Abschlussball der Masterabsolvent:innen Lehramt
+  - name: Absolventenball Master Lehramt
     date: 2024-11-02T20:00
     location:
       name: 'Hildesheim'
-  - name: Groovelastics Friends & Fans Konzert 
+  - name: Groovelastics & Friends
     date: 2024-11-03T18:30
     link: https://kufa.haus/
     location:
