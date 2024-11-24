@@ -162,4 +162,12 @@ concerts:
     link: http://www.zumbahnhof40.de/
     location: 
       name: Gaststätte "Zum Bahnhof"
-      link: https://maps.app.goo.gl/sNMHjcTxwi9sHwdv5
+      link: https://maps.app.goo.gl/sNMHjcTxwi9sHwdv5   
+  - name: Honky Tonk
+    date: 2025-04-26T21:00
+    link: https://www.honky-tonk.de/staedte_termine
+    location:
+      name: 'Riptide'
+      link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
+    fee: 18,00
+    link: https://shop.honky-tonk.de/tickets/
