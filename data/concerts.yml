@@ -177,14 +177,24 @@ concerts:
       link: https://goo.gl/maps/pECVQFpJ4teW8e4M7
     fee: 18,00
     link: https://shop.honky-tonk.de/tickets/
-
+  - name: Campus Open Air Wolfsburg
+    date: 2025-05-23
+    link: https://www.ostfalia.de/cms/de/campus/wob/open-campus-2025/
+    location:
+      name: Robert-Koch-Platz, Wolfsburg
+      link: https://maps.app.goo.gl/dmkKPc3edACNNujL9
   - name: Gemeindefest St. Johannes
     date: 2025-06-28T19:00
     link: https://www.kirche-wenden.de/aktuell/termine-gemeinde
     location: 
       name: Wenden
       link: https://maps.app.goo.gl/hvwg9T2mBp6ZMSct5
-
+  - name: Sommerlochfestival - CSD Braunschweig
+    date: 2025-08-09
+    link: https://www.csd-braunschweig.de/
+    location: 
+      name: Schlossplatz
+      link: https://maps.app.goo.gl/7StWFPfEKEvQwbNf6
 #  - name: Rock auf dem Rittergut
 #    date: 2025-05-17T22:15
 #    link: https://www.rittergut-lucklum.de/events/liste/
