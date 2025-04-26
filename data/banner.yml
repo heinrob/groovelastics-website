@@ -7,5 +7,6 @@ style: "style5 color1 orient-right content-align-left onload-image-fade-in onloa
 button:
   label : "Nächste Konzerte"
   link : "#live"
-image : "images/banner_v2.jpg"
+#image : "images/banner_v2.jpg"
+image : "images/Groovelastics_Gruppenbild_ki.jpg"
 logo: "images/logo_big.png"
