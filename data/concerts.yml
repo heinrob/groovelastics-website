@@ -189,6 +189,12 @@ concerts:
     location: 
       name: Wenden
       link: https://maps.app.goo.gl/hvwg9T2mBp6ZMSct5
+  - name: Altstadtfest Salzgitter-Bad
+    date: 2025-06-29T16:30
+    link: https://www.altstadtfest-salzgitter.de/
+    location: 
+      name: Sparkassen Bühne - Klesmerplatz
+      link: https://maps.app.goo.gl/Qan2kTWbdwAgGLvk6
   - name: Sommerlochfestival - CSD Braunschweig
     date: 2025-08-09
     link: https://www.csd-braunschweig.de/
