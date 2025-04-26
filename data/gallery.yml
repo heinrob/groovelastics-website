@@ -4,49 +4,52 @@ content: "Eins gleich zu Beginn: Wir lassen uns in keine Schublade stecken! Das 
 Zum anderen wollen wir unsere Bandvorstellung so beginnen, wie es sich für eine ordentliche Band gehört und da darf dieser Satz einfach nicht fehlen. Eigentlich wollen wir aber nur Musik machen. 
 Wir covern und arrangieren alles was wir lieben oder wozu ihr tanzen könnt - immer mit dem Ziel es ein bisschen anders, ein bisschen besser zu machen.
 Dabei helfen uns natürlich unsere beiden fantastischen Sängerinnen Helen und Netti, die sich so unglaublich gut ergänzen, dass es eine wahre Freude ist.
-Der Rest der Truppe ist für den Sound zuständig - fette Bläser, ein bisschen vintage, ein bisschen modern - ihr lernt sie kennen, wenn ihr noch ein Stückchen weiter nach unten scrollt. 
+Der Rest der Truppe ist für den Sound zuständig - fette Bläser, ein bisschen vintage, ein bisschen modern. 
 Natürlich geht das auch noch persönlicher. Folgt uns auf unseren Kanälen oder schreibt uns an, wir freuen uns in jedem Fall!
 Ach ja, falls ihr doch eine Schublade findet, die groß genug ist um sich als Bühne zu eignen, man kann uns ganz einfach buchen!"
-pictures:
-  - title: "Louis (Drums)"
-    content: "Am Schlagzeug immer pünktlich, zur Probe immer zu spät - das ist das Motto von Louis. Seine Beats geben der Musik den richtigen Drive, damit das Publikum extatisch tanzen kann."
-    image: "images/gallery/fulls/louis.jpg"
-    thumb: "images/gallery/thumbs/louis.jpg"
 
-  - title: "Helen (Lead Vocals)"
-    content: "Helen trifft mit ihrer traumhaften Stimme nicht nur jeden Ton butterweich, sondern ist obendrein eine echte Frohnatur, die sofort gute Laune versprüht."
-    image: "images/gallery/fulls/helen.jpg"
-    thumb: "images/gallery/thumbs/helen.jpg"
+# - ihr lernt sie kennen, wenn ihr noch ein Stückchen weiter nach unten scrollt
 
-  - title: "Simon (Keys)"
-    content: "Ob Wurli, Piano oder Orgel - jedes Instrument muss sich erst mal an Simons virtuose Fingerfertigkeiten gewöhnen. Er verpasst damit der Band ihren funky vintage Sound."
-    image: "images/gallery/fulls/simon.jpg"
-    thumb: "images/gallery/thumbs/simon.jpg"
+  # pictures:
+  #   - title: "Louis (Drums)"
+  #     content: "Am Schlagzeug immer pünktlich, zur Probe immer zu spät - das ist das Motto von Louis. Seine Beats geben der Musik den richtigen Drive, damit das Publikum extatisch tanzen kann."
+  #     image: "images/gallery/fulls/louis.jpg"
+  #     thumb: "images/gallery/thumbs/louis.jpg"
+  
+  #   - title: "Helen (Lead Vocals)"
+  #     content: "Helen trifft mit ihrer traumhaften Stimme nicht nur jeden Ton butterweich, sondern ist obendrein eine echte Frohnatur, die sofort gute Laune versprüht."
+  #     image: "images/gallery/fulls/helen.jpg"
+  #     thumb: "images/gallery/thumbs/helen.jpg"
 
-  - title: "Lucian (Trompete, Vocals)"
-    content: "Mit nur drei Ventilen und ganz viel Gefühl kann Lucian sowohl in Soli als auch in wunderbar schmalzigen Bläserbackings immer den richtigen Ton finden."
-    image: "images/gallery/fulls/lucian.jpg"
-    thumb: "images/gallery/thumbs/lucian.jpg"
+  #   - title: "Simon (Keys)"
+  #     content: "Ob Wurli, Piano oder Orgel - jedes Instrument muss sich erst mal an Simons virtuose Fingerfertigkeiten gewöhnen. Er verpasst damit der Band ihren funky vintage Sound."
+  #     image: "images/gallery/fulls/simon.jpg"
+  #     thumb: "images/gallery/thumbs/simon.jpg"
 
-  - title: "Yannik (Tenorsax)"
-    content: "Yannik ist unser Beast am Saxophon. Eigentlich spielt er fast jedes Instrument in das man reintröten kann und ohne seine Soli wäre alles nichts."
-    image: "images/gallery/fulls/yannik.jpg"
-    thumb: "images/gallery/thumbs/yannik.jpg"
+  #   - title: "Lucian (Trompete, Vocals)"
+  #     content: "Mit nur drei Ventilen und ganz viel Gefühl kann Lucian sowohl in Soli als auch in wunderbar schmalzigen Bläserbackings immer den richtigen Ton finden."
+  #     image: "images/gallery/fulls/lucian.jpg"
+  #     thumb: "images/gallery/thumbs/lucian.jpg"
 
-  - title: "Robin (Bass)"
-    content: "Als Fundament der Band sorgt er mit groovigem Bass für ordentlich Druck und walkt und slappt sich in die Herzen der Zuschauer. So 'n richtiger Bassist halt."
-    image: "images/gallery/fulls/robin.jpg"
-    thumb: "images/gallery/thumbs/robin.jpg"
+  #   - title: "Yannik (Tenorsax)"
+  #     content: "Yannik ist unser Beast am Saxophon. Eigentlich spielt er fast jedes Instrument in das man reintröten kann und ohne seine Soli wäre alles nichts."
+  #     image: "images/gallery/fulls/yannik.jpg"
+  #     thumb: "images/gallery/thumbs/yannik.jpg"
 
-  - title: "Netti (Lead Vocals)"
-    content: "Netti ist eine wahre Soulmachine. Mit ihrer rauchigen Stimme rockt sie jeden Song und heizt Euch mit ihrer unglaublichen Energie so richtig ein."
-    image: "images/gallery/fulls/netti.jpg"
-    thumb: "images/gallery/thumbs/netti.jpg"
+  #   - title: "Robin (Bass)"
+  #     content: "Als Fundament der Band sorgt er mit groovigem Bass für ordentlich Druck und walkt und slappt sich in die Herzen der Zuschauer. So 'n richtiger Bassist halt."
+  #     image: "images/gallery/fulls/robin.jpg"
+  #     thumb: "images/gallery/thumbs/robin.jpg"
 
-  - title: "Biene (Management)"
-    content: "Biene ist unser Mädchen für alles hinter den Kulissen. Sie ist zuständig für Organisation und Booking, macht uns regelmäßig Feuer unterm Hintern und hat immer ein offenes Ohr. Danke Biene!"
-    image: "images/gallery/fulls/biene.jpg"
-    thumb: "images/gallery/thumbs/biene.jpg"
+  #   - title: "Netti (Lead Vocals)"
+  #     content: "Netti ist eine wahre Soulmachine. Mit ihrer rauchigen Stimme rockt sie jeden Song und heizt Euch mit ihrer unglaublichen Energie so richtig ein."
+  #     image: "images/gallery/fulls/netti.jpg"
+  #     thumb: "images/gallery/thumbs/netti.jpg"
+
+  #   - title: "Biene (Management)"
+  #     content: "Biene ist unser Mädchen für alles hinter den Kulissen. Sie ist zuständig für Organisation und Booking, macht uns regelmäßig Feuer unterm Hintern und hat immer ein offenes Ohr. Danke Biene!"
+  #     image: "images/gallery/fulls/biene.jpg"
+  #     thumb: "images/gallery/thumbs/biene.jpg"
 
   # - title: "Peter (Gitarre, Vocals)"
   #   content: "Mit smoothen Licks und fetzigen Soli überzeugt er das Publikum nicht nur an der Gitarre, sondern auch als Teil des Chorsatzes und auch gelegentlich als Leadsänger. Und das obwohl er schon in ganz Europa tourt."
