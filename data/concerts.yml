@@ -178,7 +178,7 @@ concerts:
     fee: 18,00
     link: https://shop.honky-tonk.de/tickets/
   - name: Campus Open Air Wolfsburg
-    date: 2025-05-23
+    date: 2025-05-23T21:50
     link: https://www.ostfalia.de/cms/de/campus/wob/open-campus-2025/
     location:
       name: Robert-Koch-Platz, Wolfsburg
