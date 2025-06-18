@@ -184,7 +184,7 @@ concerts:
       name: Robert-Koch-Platz, Wolfsburg
       link: https://maps.app.goo.gl/dmkKPc3edACNNujL9
   - name: Tag der offenen Tür: Neueröffnung
-    date: 2025-06-173T18:00
+    date: 2025-06-17T18:00
     link: https://www.braunschweig.de/kultur/kulturelle_einrichtungen/ghw/aktuelle-veranstaltungen-test.php
     location:
       name: Kulturpunkt West
@@ -207,8 +207,8 @@ concerts:
     location: 
       name: Schlossplatz
       link: https://maps.app.goo.gl/7StWFPfEKEvQwbNf6
-  - name: Grinsekatz
-    date: 2024-09-04T18:00
+  - name: Strandkonzert - Grinsekatz
+    date: 2025-09-04T18:00
     location:
       name: 'Grinsekatz'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
