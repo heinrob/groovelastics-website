@@ -183,6 +183,12 @@ concerts:
     location:
       name: Robert-Koch-Platz, Wolfsburg
       link: https://maps.app.goo.gl/dmkKPc3edACNNujL9
+  - name: Tag der offenen Tür: Neueröffnung
+    date: 2025-06-173T18:00
+    link: https://www.braunschweig.de/kultur/kulturelle_einrichtungen/ghw/aktuelle-veranstaltungen-test.php
+    location:
+      name: Kulturpunkt West
+      link: https://maps.app.goo.gl/7faL1j5ANXz7bjwD8
   - name: Gemeindefest St. Johannes
     date: 2025-06-28T19:00
     link: https://www.kirche-wenden.de/aktuell/termine-gemeinde
@@ -201,6 +207,12 @@ concerts:
     location: 
       name: Schlossplatz
       link: https://maps.app.goo.gl/7StWFPfEKEvQwbNf6
+  - name: Grinsekatz
+    date: 2024-09-04T18:00
+    location:
+      name: 'Grinsekatz'
+      link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
+    link: https://grinsekatz.de/event/strandkonzert-groovelastics-2/
 #  - name: Rock auf dem Rittergut
 #    date: 2025-05-17T22:15
 #    link: https://www.rittergut-lucklum.de/events/liste/
