@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 color1 orient-left content-align-left image-position-left onscroll-image-fade-in"
 id: "live"
-title_future : "Konzerte"
-content_future: |
-  Hier sind unsere nächsten Konzerte:
+#title_future : "Konzerte"
+#content_future: |
+#  Hier sind unsere nächsten Konzerte:
 title_past : "Vergangene Konzerte"
 content_past: |
   Bühnen gibt es viele - drinnen und draußen, schlecht überdacht und voll im Wind oder winzig klein unter brütend heißem Scheinwerferlicht.
