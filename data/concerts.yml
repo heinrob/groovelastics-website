@@ -8,7 +8,7 @@ title_past : "Vergangene Konzerte"
 content_past: |
   Bühnen gibt es viele - drinnen und draußen, schlecht überdacht und voll im Wind oder winzig klein unter brütend heißem Scheinwerferlicht.
   Wir standen schon auf so einigen davon und lieben es einfach immer! Hier gibts eine kleine Auswahl unserer letzten Auftritte, vielleicht haben wir uns ja dort gesehen!?
-image: "images/live_v4.jpg"
+#image: "images/live_v4.jpg"
 #default_past_image: "images/concerts/default.jpg"
 concerts:
   - name: Schloss-Spektakel
