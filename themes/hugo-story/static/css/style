@@ -1,0 +1,3 @@
+.background{
+      filter: none!important;
+      opacity: 0.9;
