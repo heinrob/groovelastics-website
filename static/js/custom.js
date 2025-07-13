@@ -64,6 +64,7 @@ window.addEventListener("DOMContentLoaded", () => {
         }
         const li = document.createElement("li");
         const headline = document.createElement("strong");
+        headline.classList.add("font-h3");
         if (link) {
           const a = document.createElement("a");
           a.href = link;
