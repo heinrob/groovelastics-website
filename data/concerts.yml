@@ -213,6 +213,12 @@ concerts:
       name: 'Grinsekatz'
       link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
     link: https://grinsekatz.de/event/strandkonzert-groovelastics-2/
+  - name: Kultur im Zelt, Regio Bühne
+    date: 2025-09-11T17:30
+    location:
+      name: 'Bürgerpark'
+      link: 'https://maps.app.goo.gl/vepAa7LHfhSziSYQ6'
+    link: https://www.kulturimzelt.de/programm-2025/
 #  - name: Rock auf dem Rittergut
 #    date: 2025-05-17T22:15
 #    link: https://www.rittergut-lucklum.de/events/liste/
