@@ -8,5 +8,6 @@ button:
   label : "Nächste Konzerte"
   link : "#live"
 #image : "images/banner_v2.jpg"
-image : "images/banner_2025_2.jpg"
+#image : "images/banner_2025_2.jpg"
+image : "images/banner_2026.jpg"
 logo: "images/logo_big.png"
