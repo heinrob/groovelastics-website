@@ -268,3 +268,10 @@ concerts:
     location:
       name: 'Sportplatz Rethen'
       link: https://maps.app.goo.gl/dpJW4XLaJ8LEjX9NA
+
+  - name: 8. Regionales Musikfest
+    date: 2026-09-12T21:00
+    link: https://www.regionales-musikfest.de/8-regionales-musikfest/
+    location: 
+      name: Open-Air-Bühnen Platz der Deutschen Einheit
+      link: https://maps.app.goo.gl/6hZWgTtJSLoq4qKi6
