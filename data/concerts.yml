@@ -278,10 +278,18 @@ concerts:
 
   - name: Altstadtfest Gifhorn
     date: 2026-08-22T18:00
-    link: hhttps://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest
+    link: https://www.stadt-gifhorn.de/freizeit-tourismus/veranstaltungen/gifhorner-altstadtfest
     location: 
       name: Culinari Feinkost
       link: https://maps.app.goo.gl/4cMYmUAn6BzPiaJcA
+
+
+  - name: BBG Sommerfest 2026 
+    date: 2026-08-30T17:30
+    link: https://www.baugenossenschaft.de/veranstaltungen/sommerfest-der-weststadt-alsterplatz
+    location: 
+      name: Alsterplatz
+      link: https://maps.app.goo.gl/XFqEWuymHihtMRvM6
 
 
 
